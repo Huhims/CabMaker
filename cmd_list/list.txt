@@ -1,0 +1,8 @@
+;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate="NewCAB.cab"
+.Set DiskDirectoryTemplate="C:\.....\Desktop"
+.Set MaxDiskSize=0
+.Set Cabinet=on
+.Set Compress=on
+.Set CompressionType=MSzip
